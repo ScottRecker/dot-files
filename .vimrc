@@ -196,6 +196,3 @@ set undodir=~/.vim-tmp
 let g:netrw_liststyle=3
 " make little easier open
 map <leader>E :E<cr>
-
-colorscheme Mustang
-set rtp+=/Users/scott/util/powerline/bindings/vim
