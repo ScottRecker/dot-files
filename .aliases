@@ -1,0 +1,24 @@
+# -------------------------------
+# Aliases - general
+# -------------------------------
+alias ll='ls -lh'
+alias la='ls -a'
+alias lla='ls -alh'
+
+# -------------------------------
+# Git aliases
+# -------------------------------
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit '
+alias gd='git diff '
+alias gp='git push '
+alias go='git checkout '
+alias gl='git log '
+alias gh='git hist ' 
+
+alias mysql=/usr/local/mysql/bin/mysql
+alias mysqladmin=/usr/local/mysql/bin/mysqladmin
+
+alias love="/Applications/love.app/Contents/MacOS/love"
